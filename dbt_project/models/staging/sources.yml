@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: raw
+    database: sales-pipeline-demo-777
+    schema: raw
+    tables:
+      - name: sales_raw
